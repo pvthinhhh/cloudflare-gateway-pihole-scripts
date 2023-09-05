@@ -5,6 +5,7 @@ touch input.csv
 
 # declare an array of urls
 urls=(
+  https://abpvn.com/filter/abpvn-52eIof.txt
   https://raw.githubusercontent.com/bigdargon/hostsVN/master/option/domain.txt
   https://raw.githubusercontent.com/mullvad/dns-blocklists/main/output/doh/doh_adblock.txt
   https://raw.githubusercontent.com/mullvad/dns-blocklists/main/output/doh/doh_gambling.txt
